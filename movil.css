@@ -1,5 +1,22 @@
 @media (max-width:600px){
-    .meta h2{
+    .meta{
         font-size: 60px;
     }
+    .uno{
+        position: absolute;
+        top: 32% ;
+        left:1px ;
+        right: ;
+    }    
+    .dos{
+        position: absolute;
+        top:153px ;
+        right: -105px;    
+    }
+    .tres{
+        position: absolute;
+        top:197px ;
+        right: 1px;
+    }
+
 }

@@ -92,6 +92,13 @@ img{
     left: 0;
     background-image: linear-gradient(to top,(transparent black)20%);
     opacity: 0.5;
+    z-index: 2;
+}
+.section1 .mujer{
+    z-index: -1;
+}
+.section1 .Explore{
+    z-index: 3;
 }
 .section2 h2{
     line-height: 68px;
