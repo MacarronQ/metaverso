@@ -1,0 +1,258 @@
+body{
+    background-color: black;
+}
+header ul{
+    list-style: none;
+    font-family: "Poppins";
+    font-weight: 400;
+}
+header h2{
+    font-family: "Orbitron";
+    font-weight: 700;
+}
+img{
+    width: 100%;
+}
+.Explore{
+    font-family: "Orbitron";
+    font-weight: 600; 
+}
+.section1 h1{
+    line-height: 68px;
+    font-family: "Orbitron";
+    font-size: 40px;
+    font-weight: 600;
+}
+.section1 span{
+    background: -webkit-linear-gradient(97deg,#F86CF8 12.04%,#00B4EC 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "orbitron";
+    font-weight: 700;
+    font-size: 55px;
+}
+.section1 p{
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 15p
+    x;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.section1 .clase1{
+    margin-top: 80px;
+}
+.section1 .estrella{
+    width: 20%;
+    right: 320px;
+    top: 80px;
+}
+.section1 .b1{
+    width: 180px;
+    height: 50px;
+    background: linear-gradient(to right, rgba(209, 14, 209, 1),rgba(16, 163, 218, 1));
+    border: none;
+    border-radius: 5px;
+}
+.section1 .botones-1 .b2{
+    margin-left: 10px;
+    background-color: black;
+    border:none;
+    width: 180px;
+    height: 50px;
+}  
+.section1 .botones-1 .b2::after{
+    content: "";
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    z-index: -2;
+    width: 104%;
+    height: 112%;
+    border: 1px solid;
+  
+    background: linear-gradient(to right, rgba(209, 14, 209, 1),rgba(16, 163, 218, 1));
+    border-radius: 10px;
+}   
+.section1 .numbb{
+    gap: 100px;
+    margin-top: 40px;
+    
+}  
+.section1 .numbb h2{
+    font-family: "orbitron";
+    font-weight: 500;
+} 
+.section1 .mujer::before{
+    content: "";
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to top,(transparent black)20%);
+    opacity: 0.5;
+}
+.section2 h2{
+    line-height: 68px;
+    font-family: "Orbitron";
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+.section2 p{
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color:rgba(255, 255, 255, 0.8);
+    
+}
+.section2 span{
+    background: -webkit-linear-gradient(20deg,rgba(248, 108, 248, 1),rgba(100, 206, 245, 1),rgba(255, 255, 255, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "orbitron";
+    font-weight: 700;
+    font-size: 30px;
+}
+.section2 img{
+    width: 100%;
+}
+.section2{
+    margin: 50px 0 50px 0;
+    padding:50px 0 50px 0 ;
+}
+.section2 .btn3{
+    width: 150px;
+    height: 50px;
+    background: linear-gradient(to right, rgba(209, 14, 209, 1),rgba(16, 163, 218, 1));
+    border: none;
+    border-radius: 5px;
+}
+.section3 h2{
+    line-height: 68px;
+    font-family: "Orbitron";
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+.section3 p{
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color:rgba(255, 255, 255, 0.8);
+    
+}
+span{
+    background: -webkit-linear-gradient(20deg,rgba(248, 108, 248, 1),rgba(100, 206, 245, 1),rgba(255, 255, 255, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "orbitron";
+    font-weight: 700;
+    font-size: 35px;
+}
+.section3 .parte2{
+    margin-top: 50px;
+}
+.section4{
+    margin: 50px 0 50px 0;
+}
+.section4 h2{
+    line-height: 68px;
+    font-family: "Orbitron";
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+.section4 p{
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color:rgba(255, 255, 255, 0.8);
+    
+}
+.section4 span{
+    background: -webkit-linear-gradient(20deg,rgba(248, 108, 248, 1),rgba(100, 206, 245, 1),rgba(255, 255, 255, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "orbitron";
+    font-weight: 700;
+    font-size: 35px;
+}
+.footer p{
+    font-size: 15px;
+}
+.footer h4{
+    font-size: 25px;
+}
+.footer img{
+    width: 30%;
+}
+
+
+.section3 h5{
+    font-family: "Orbitron";
+    font-size: 18px;
+}
+
+.section3 p{
+    font-family: "Poppins";
+    font-size: 15px;
+}
+.el-botoncito{
+    background: black;
+    position: relative;
+    margin-left: 2px;
+    
+}
+.el-botoncito a{
+    color: white;
+}
+.card{
+    z-index: -99999999999
+}
+.el-botoncito::after{
+    content: "";
+    
+    background: linear-gradient(to right, rgba(209, 14, 209, 1),rgba(16, 163, 218, 1));
+    z-index: -1;
+    position: absolute;
+    top: -4%;
+    left: -2%;
+    width: 105%;
+    height: 110%;
+    border-radius: 5px;
+}
+.el-botoncito a{
+    text-decoration: none;
+}
+.figmujer::after{
+    content: "";
+    position: absolute;
+    width: 546px;
+    height: 303px;
+    background: #000;
+    filter: blur(100px);
+    top:247px ;
+    right:-57px ;
+}
+.section3 .primerboton{
+    width: 120px;
+    height: 40px;
+    background: linear-gradient(to right, rgba(209, 14, 209, 1),rgba(16, 163, 218, 1));
+    border: none;
+    border-radius: 5px;
+}
+@media (max-width:600px){
+    .section .clase1{
+        flex-wrap: wrap-reverse;  
+      }
+    .section1 h1{
+    
+    }
+}
+
+
